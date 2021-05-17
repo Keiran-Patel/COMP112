@@ -1,0 +1,97 @@
+@font-face {
+    font-family: greatvibes;
+    src: url(great-vibes/GreatVibes-Regular.otf)
+}
+
+html {
+    font-family: raleway, sans-serif, serif;
+    max-width: 1000px;
+    margin: auto;
+    background-color: #334774;
+    color: black;
+}
+
+header {
+    width: 1000px;
+    border: 1px solid;
+    border-radius: 20px;
+    position: relative;
+    margin-bottom: 25px;
+    height: 165px;
+    background-color: #7E8CAD;
+    color: inherit;
+}
+
+h1 {
+    font-family: greatvibes, sans-serif, serif;
+    font-size: 50px;
+    margin-left: 185px;
+    position: absolute;
+    top: -14px;
+}
+
+header img {
+    margin: 20px 40px 20px 20px;
+}
+
+section h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+
+nav {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+nav ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav li {
+    display: inline-block;
+    text-align: center;
+    width: 70px;
+    padding: 2px 4px;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+section {
+    width: 1000px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 25px;
+    background-color: #7E8CAD;
+    color: inherit;
+}
+
+p {
+    margin-left: 26px;
+    margin-right: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+caption {
+    text-align: center;
+}
+
+th,
+td {
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+td:first-child {
+    text-align: right;
+}
