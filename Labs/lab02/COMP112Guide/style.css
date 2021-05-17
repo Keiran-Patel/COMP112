@@ -1,0 +1,35 @@
+html {}
+
+body {
+    color: black;
+    background-color: #DAFF33;
+    width: 600px;
+}
+
+
+
+h1 {
+
+    text-align: center;
+    color: black;
+    width: 50%;
+    background-color: lightblue;
+    border: 15px dotted;
+    margin-top: 50px;
+    border-color: red;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+
+h2 {
+    color: black;
+    background-color: #f2f2ff;
+
+}
+
+section {
+    padding: 80px 0px 0px 0px;
+}
