@@ -1,0 +1,81 @@
+html {
+    background-color: grey;
+    color: black;
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+
+form {
+    width: 450px;
+    padding-bottom: 10px;
+    background-color: gainsboro;
+    color: inherit;
+    padding-right: 5px;
+    float: left;
+}
+
+fieldset {
+    border: 1px solid black;
+    background-color: grey;
+    color: inherit;
+    margin-top: 15px;
+}
+
+legend {
+    background-color: white;
+    color: inherit;
+    border: 1px solid black;
+}
+
+.textInputs label {
+    float: left;
+    width: 100px
+}
+
+.textInputs input {
+    float: left;
+    width: 250px;
+}
+
+.textInputs li {
+    clear: both;
+}
+
+li {
+    list-style-type: none;
+    height: 1.5em;
+    margin-bottom: 5px;
+}
+
+.littleInputs li{
+    float: left;
+    width: 30%;
+
+}
+
+.catType li {
+    width: 30%;;
+    float: left;
+
+}
+
+.buttons {
+    text-align: right;
+    margin-top: 10px;
+
+}
+
+figure {
+    background-color: black;
+    color: inherit;
+    float: left;
+    height: 183px;
+    padding: 180px 0px;
+    margin: 0px;
+}
+
+.Thanks {
+    clear: both;
+}

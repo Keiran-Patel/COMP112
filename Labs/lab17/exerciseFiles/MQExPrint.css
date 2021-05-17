@@ -1,0 +1,11 @@
+html {
+    font-family: sans-serif;
+}
+
+.col-4 {
+    display: none;
+}
+
+nav {
+    display: none;
+}

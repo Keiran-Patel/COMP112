@@ -1,0 +1,61 @@
+html {
+    color: black;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-justify: auto;
+}
+
+section {
+    border: 1px solid;
+    border-color: black;
+    width: 45%;
+    padding: 10px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    margin: 0px;
+}
+
+header li {
+    display: inline-block;
+    margin: 0px;
+}
+
+#thing {
+    float: left;
+
+    margin: 16px 10px 0 0;
+}
+
+#thing1png {
+    display: flex;
+    justify-content: space-around;
+}
+
+#thing2 {
+    float: left;
+}
+
+section:last-child div {
+    display: flex;
+    flex-direction: column;
+
+}

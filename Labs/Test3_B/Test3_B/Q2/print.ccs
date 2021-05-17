@@ -1,0 +1,22 @@
+html {
+    font-family: sans-serif;
+}
+
+.col-4 {
+    display: none;
+}
+
+nav {
+    display: none;
+}
+
+footer{
+    display: none;
+}
+h1{
+    display: all;
+}
+
+aside{
+    display: none;
+}
